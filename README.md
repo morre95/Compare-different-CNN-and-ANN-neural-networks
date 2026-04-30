@@ -1,8 +1,8 @@
 # Assignment 1 - ANN, CNN och transfer learning
 
-Det här repot innehåller min lösning på Assignment 1. Arbetet börjar ganska nära grunden, med en enkel neuron och ANN-lager, och går sedan vidare till CNN-modeller, MLOps-delar, data augmentation och till sist transfer learning med ResNet50.
+Det här repot innehåller min lösning på Assignment 1. Arbetet börjar från grunden, med en enkel neuron och ANN-lager, och går sedan vidare till CNN-modeller, MLOps-delar, data augmentation och till sist transfer learning med ResNet50.
 
-Jag har försökt bygga upp uppgiften steg för steg istället för att bara hoppa direkt till en färdig modell. Det gjorde framför allt NumPy/PyTorch-delen extra lärorik, eftersom det blev tydligare vad PyTorch faktiskt hjälper till med när man sedan använder färdiga lager, optimerare och backpropagation.
+Jag har fölt instruktioner från [notin](https://spiking-thai2.notion.site/Shared-Uppgift-1-Perceptron-fo-r-OCR-2b9a7700ac26801d9a3ad9eac0e87b82) så gott jag har kunnat. Det gjorde framför allt NumPy/PyTorch-delen extra lärorik, eftersom det blev tydligare vad PyTorch faktiskt hjälper till med när man sedan använder färdiga lager, optimerare och backpropagation.
 
 ## Notebookar
 
